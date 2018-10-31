@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 //Bandera de Dinamarca
-@mixin bandera_dinamarca() {
+@mixin flag_denmark() {
   @include ratio(28 / 37);
   $red: #D81E05;
   $white: #FFF;
@@ -20,7 +20,7 @@ and open the template in the editor.
 };
 
 //Bandera de Emiratos Arabes
-@mixin bandera_emiratos_arabe() {
+@mixin flag_arab_emirates() {
   @include ratio(1 / 2);
   $unit: $h6;
   $red: #a6192e;
@@ -36,7 +36,7 @@ and open the template in the editor.
 
 //Bandera de Japón
 
-@mixin bandera_japon() {
+@mixin flag_japan() {
   @include ratio(2 / 3);
   $unit: $h20;
   $white: #FFF;
