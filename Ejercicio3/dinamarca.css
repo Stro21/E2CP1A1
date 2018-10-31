@@ -9,32 +9,32 @@ and open the template in the editor.
 */
 
 .dinamarca{
-  margin-top: -206px;
-  margin-left: 380px;
+  margin-top: -216px;
+  margin-left: 390px;
 }
 
 .dinamarca1{
-  height: 90px;
-  width: 90px;
+  height: 93px;
+  width: 93px;
   background-color: red;
 }
 
 .dinamarca2{
-  height: 90px;
-  width: 20px;
-  margin-top: -90px;
-  margin-left: 90px;
+  height: 93px;
+  width: 24px;
+  margin-top: -93px;
+  margin-left: 93px;
 }
 
 .dinamarca3{
-  height: 90px;
+  height: 93px;
   background-color: red;
-  width: 240px;
-  margin-top: -90px;
-  margin-left: 110px;
+  width: 243px;
+  margin-top: -93px;
+  margin-left: 117px;
 }
 
 .dinamarca4{
-  height: 20px;
-  width: 350px;
+  height: 24px;
+  width: 360px;
 }
