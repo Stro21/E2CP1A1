@@ -8,18 +8,23 @@ and open the template in the editor.
     Author     : eduar
 */
 
-#españa{
+.bandera{
+  width: 200px;
+  height: 200px;
+}
+
+.españa{
   
 }
 
-#dinamarca{
+.dinamarca{
   
 }
 
-#emiratos_arabes{
+.emiratos_arabes{
   
 }
 
-#japon{
+.japon{
   
 }
