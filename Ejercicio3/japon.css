@@ -8,6 +8,10 @@ and open the template in the editor.
     Author     : eduar
 */
 
-.japon1{
-  
+.japon{
+  height: 80px;
+  width: 80px;
+  background-color: red;
+  border-radius: 50%;
+  text-align: center;
 }
