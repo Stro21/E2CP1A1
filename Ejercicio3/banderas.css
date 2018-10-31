@@ -9,12 +9,12 @@ and open the template in the editor.
 */
 
 .bandera{
-  width: 200px;
+  width: 350px;
   height: 200px;
 }
 
-.españa{
-  
+.espana{
+  background-color: red;
 }
 
 .dinamarca{
