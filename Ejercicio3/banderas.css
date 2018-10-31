@@ -7,16 +7,19 @@ and open the template in the editor.
     Created on : 30-10-2018, 19:24:50
     Author     : eduar
 */
-/*
-.dinamarca{
-  @include flag_denmark;
+
+#españa{
+  
 }
 
-.emiratos_arabes{
-  @include flag_arab_emirates;
+#dinamarca{
+  
 }
 
-.japon{
-	@include flag_japan;
+#emiratos_arabes{
+  
 }
-*/
+
+#japon{
+  
+}
