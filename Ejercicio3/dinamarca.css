@@ -14,13 +14,16 @@ and open the template in the editor.
 }
 
 .dinamarca1{
-  height: 95px;
-  width: 95px;
+  height: 90px;
+  width: 90px;
   background-color: red;
 }
 
 .dinamarca2{
-  
+  height: 90px;
+  width: 20px;
+  margin-top: -90px;
+  margin-left: 90px;
 }
 
 .dinamarca3{
