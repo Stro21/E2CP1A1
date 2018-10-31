@@ -8,3 +8,14 @@ and open the template in the editor.
     Author     : eduar
 */
 
+.espana1{
+  width: 350px;
+  height: 55px;
+  background-color: red;
+}
+
+.espana2{
+  width: 350px;
+  height: 90px;
+  background-color: yellow;
+}
