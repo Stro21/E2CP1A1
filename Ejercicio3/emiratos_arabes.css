@@ -8,6 +8,16 @@ and open the template in the editor.
     Author     : eduar
 */
 
-.emiratos_arabes{
-  margin-top: 50px;
+.emiratos_arabes1{
+  background-color: red;
+  height: 210px;
+  width: 90px;
+}
+
+.emiratos_arabes2{
+  background-color: green;
+  height: 70px;
+  width: 270px;
+  margin-top: -210px;
+  margin-left: 90px;
 }

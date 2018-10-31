@@ -14,3 +14,12 @@ and open the template in the editor.
   border-color: black;
   border-style: solid;
 }
+
+.izquierda{
+  margin-top: -216px;
+  margin-left: 390px;
+}
+
+.abajo{
+  margin-top: 50px;
+}
